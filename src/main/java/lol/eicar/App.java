@@ -1,8 +1,7 @@
-package com.eicar;
+package lol.eicar;
 
 /**
- * Hello world!
- *
+ * lol eicar
  */
 public class App 
 {
